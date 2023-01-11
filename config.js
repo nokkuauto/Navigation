@@ -55,7 +55,7 @@ const CONFIG = {
 			id: '1',
 			name: 'Github',
 			icon: 'github',
-			link: 'https://github.com/',
+			link: 'https://github.com/posycat/Bento',
 		},
 		{
 			id: '2',
@@ -83,21 +83,9 @@ const CONFIG = {
 		},
 		{
 			id: '6',
-			name: 'Odysee',
+			name: 'xvideo',
 			icon: 'youtube',
-			link: 'https://odysee.com/',
-		},
-		{
-			id: '7',
-			name: 'Odysee',
-			icon: 'youtube',
-			link: 'https://odysee.com/',
-		},
-		{
-			id: '8',
-			name: 'Odysee',
-			icon: 'youtube',
-			link: 'https://odysee.com/',
+			link: 'https://xvideo.com/',
 		},
 	],
 
@@ -171,32 +159,6 @@ const CONFIG = {
 		{
 			icon: 'coffee',
 			id: '2',
-			links: [
-				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
-				},
-				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
-				},
-				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
-				},
-				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
-				},
-				{
-					name: 'Slack2',
-					link: 'https://www.slack.com',
-				},
-			],
-		},
-		{
-			icon: 'coffee',
-			id: '3',
 			links: [
 				{
 					name: 'Linkedin',
