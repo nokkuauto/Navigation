@@ -188,6 +188,32 @@ const CONFIG = {
 					name: 'Slack',
 					link: 'https://www.slack.com',
 				},
+				{
+					name: 'Slack2',
+					link: 'https://www.slack.com',
+				},
+			],
+		},
+		{
+			icon: 'coffee',
+			id: '3',
+			links: [
+				{
+					name: 'Linkedin',
+					link: 'https://www.linkedin.com',
+				},
+				{
+					name: 'Dribbble',
+					link: 'https://www.dribbble.com',
+				},
+				{
+					name: 'Trello',
+					link: 'https://www.trello.com',
+				},
+				{
+					name: 'Slack',
+					link: 'https://www.slack.com',
+				},
 			],
 		},
 	],
