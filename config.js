@@ -87,6 +87,18 @@ const CONFIG = {
 			icon: 'youtube',
 			link: 'https://odysee.com/',
 		},
+		{
+			id: '7',
+			name: 'Odysee',
+			icon: 'youtube',
+			link: 'https://odysee.com/',
+		},
+		{
+			id: '8',
+			name: 'Odysee',
+			icon: 'youtube',
+			link: 'https://odysee.com/',
+		},
 	],
 
 	secondButtonsContainer: [
