@@ -23,7 +23,7 @@ const CONFIG = {
 	greetingNight: 'Go to Sleep!',
 
 	// Layout
-	bentoLayout: 'lists', // 'bento', 'lists', 'buttons'
+	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
 
 	// Weather
 	weatherKey: '12b2817fbec86915a6e9b4dbbd3d9036', // Write here your API Key
@@ -83,9 +83,9 @@ const CONFIG = {
 		},
 		{
 			id: '6',
-			name: 'xvideo',
+			name: 'bilibili',
 			icon: 'youtube',
-			link: 'https://xvideo.com/',
+			link: 'https://bilibili.com/',
 		},
 	],
 
